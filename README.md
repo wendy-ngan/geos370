@@ -1,2 +1,3 @@
-# geos370
-Trankslink Rapid Bus Evaluation
+# Trankslink Rapid Bus Evaluation
+
+Code for data-cleaning in the project.
